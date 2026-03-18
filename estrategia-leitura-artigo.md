@@ -2,7 +2,7 @@
 # Como Ler um Artigo Científico de Forma Estratégica
 
 Ler um artigo científico não significa começar na primeira linha e seguir até o final.
-Pesquisadores experientes utilizam uma **estratégia de leitura em camadas**, que permite **economizar tempo** e **aumentar a compreensão**.
+Para **economizar tempo** e **aumentar a compreensão** é importante utilizarmos uma **estratégia de leitura em camadas**.
 
 ---
 
@@ -27,7 +27,7 @@ O título é o primeiro filtro.
 * Está relacionado ao meu objetivo?
 * O foco é técnico, teórico ou aplicado?
 
-> ⚠️ Dica: Se o título já não for relevante, não perca tempo com o restante.
+> ⚠️ Dica: Se o título já não for relevante, provavelemente o artigo não será selecionado.
 
 ---
 
@@ -44,7 +44,7 @@ O resumo é a parte mais importante da leitura inicial.
 
 **Pergunta principal:**
 
-> “Esse artigo vale a pena para o que eu estou buscando?”
+> “Esse artigo vale a pena para o que eu estou buscando/pesquisando?”
 
 ---
 
@@ -67,16 +67,16 @@ Agora sim, você começa a aprofundar.
 
 **A introdução responde:**
 
-* Qual é o contexto do problema
-* Por que esse tema é importante
-* O que já existe na área
-* Qual lacuna o artigo tenta preencher
+* Qual é o contexto do problema?
+* Por que esse tema é importante? 
+* O que já existe na área?
+* Qual lacuna o artigo tenta preencher?
 
 ---
 
 ### 5. Metodologia
 
-Aqui está o “como” do trabalho.
+Aqui está o “como” do trabalho. Como poderíamos replicar os resultados e/ou a solução.
 
 **Analise:**
 
@@ -98,6 +98,7 @@ Essa é a parte mais densa do artigo.
 * Gráficos
 * Tabelas
 * Comparações
+* Relações com os outros trabalhos (discussão)
 * Interpretações dos autores
 
 **Perguntas importantes:**
@@ -108,16 +109,16 @@ Essa é a parte mais densa do artigo.
 
 ---
 
-### 7. Leitura Completa (Aprofundamento)
+### 7. Leitura Aprofundada (Releitura) 
 
-Somente agora você decide se vale a pena ler tudo com atenção.
+Agora você decide se vale a pena reler com mais atenção/aprofundamento.
 
 **Se sim:**
 
 * Faça anotações
 * Marque trechos importantes
 * Relacione com outros estudos
-* Releia partes difíceis
+* Releia mais vezes as partes difíceis
 * Destaque as referências interessantes para uma próxima leitura 
 
 ---
@@ -130,7 +131,7 @@ Somente agora você decide se vale a pena ler tudo com atenção.
 4. Introdução
 5. Metodologia
 6. Resultados
-7. Leitura completa (se necessário)
+7. Leitura Aprofundada (se necessário)
 
 ---
 
